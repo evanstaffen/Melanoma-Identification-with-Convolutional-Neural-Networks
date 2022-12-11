@@ -13,7 +13,7 @@ While there are the basic ABCDE rules for identifying Melanoma, they do not enco
 
 ### **Stakeholder: Dermatoscope manufaturers**
 
-Although MoleSafe has plenty of benefits, it is time-consuming and expensive (~$500) for a personal scan as insurance does not cover it. I set out to create a neural network that could do the same evaluation as MoleSafe, but to be used inside a Dermatoscope while the doctor is in the room with the patient. The doctor would then have a live version of MoleSafe to be used as a clinical aide in their diagnosis. 
+Although MoleSafe has plenty of benefits, it is time-consuming and expensive (~$500) for a personal scan as insurance does not cover it. Effectively, MoleSafe is only used as a tool for those with extreme risk of Melanoma due to its cost. While it has undoubtedly saved many lives, I believe its limited use still means there are ways to improve early detection. I set out to create a neural network that could do the same evaluation as MoleSafe, but to be used inside a Dermatoscope while the doctor is in the room with the patient. The doctor would then have a live version of MoleSafe to be used as a clinical aide in their diagnosis. 
 <img width="473" alt="Screen Shot 2022-12-10 at 4 51 17 PM" src="https://user-images.githubusercontent.com/113449546/206876611-9f3bde54-2f20-4f9c-b730-e2e4ef94b681.png">
 
 ### Dataset
