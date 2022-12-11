@@ -71,7 +71,7 @@ Implementing the model on a larger, clinical scale requires much more complex im
 # Repository Structure
     ├── Photos
     ├── .gitignore
-    ├── Melanoma Identification Slides.pdf
     ├── Binary Classification.ipynb
+    ├── Melanoma Identification Slides.pdf
     └── Preprocessing.ipynb
     └── README.md
