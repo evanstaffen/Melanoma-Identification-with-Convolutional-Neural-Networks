@@ -37,9 +37,9 @@ A one layer CNN was used as a baseline for the model. From there, dropouts, regu
 
 The final model's results are displayed below.
 
-  > Recall: 86.8%
+  > Recall: 83.1%
 
-  > Accuracy: 78.1%
+  > Accuracy: 77.9%
 
 ![Accuracy](https://user-images.githubusercontent.com/113449546/206875969-79c11ab7-5f4e-423e-9348-b34c7cd3b5fb.jpg)
 
